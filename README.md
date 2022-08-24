@@ -1,2 +1,2 @@
 # IA_IB_FIME_1824834
-Artificial Intelligence activities and project.
+En este repositorio se almacenaran las actividades y el proyecto final de la clase de Inteligencia Artificial.
